@@ -1,0 +1,7 @@
+version: '3'
+
+services:
+  r2mre:
+    build: .
+    volumes:
+      - ./:/code

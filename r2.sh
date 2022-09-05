@@ -1,0 +1,1 @@
+r2 /bin/ls < inputs.txt
